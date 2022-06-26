@@ -1,0 +1,222 @@
+.navbarbuttons
+{
+  font-size: 25px;
+}
+.navbar-content
+{
+  margin-left: 30%;
+}
+.midlogo{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.home-mid-text
+{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card-img
+{
+  width: 35%;
+  /* height: 100%; */
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-body
+{
+  text-align: center;
+}
+.middlecomponent-row
+{
+  justify-content: center;
+}
+.full-card
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  border-radius: 50%;
+  border: 1px solid;
+}
+.definitions
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.definitions-heading
+{
+  margin-bottom: 20px;
+}
+.definitions-text
+{
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.definitionsBullets-text
+{
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.definitionsHeadings-heading
+{
+  text-align: center;
+  margin-bottom: 20px;
+  
+}
+
+.definitions-description
+{
+  font-size: 20px;
+  text-align: justify;
+}
+.definitionsHeadings-description
+{
+  font-size: 20px;
+  text-align: justify;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.Whoarewe-paragraph
+{
+  text-align: justify;
+  font-size: 20px;
+}
+.Whoarewe-heading
+{
+  text-align: center;
+  margin-bottom: 50px;
+  
+}
+.Whoarewe-col1
+{
+ padding-left: 50px;
+ padding-right: 50px;
+}
+.Whoarewe-col2
+{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.subheading
+{
+  color: #1c1857
+}
+.ourpartners-image
+{
+  width: 200px;
+}
+.ourpartners-row
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.form-text
+{
+  font-size: 15px;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.form-heading
+{
+  font-size: 25px;
+  text-align:center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.form-image
+{
+  max-width: 100%;
+  height: auto;
+}
+.form-background
+{
+  background-color: rgb(76, 76, 77)
+}
+.form-input
+{
+  background-color: rgb(49, 49, 49);
+  border-color: rgb(49, 49, 49);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.form-midlogo
+{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  /* margin-bottom: 25px; */
+  background-color: rgb(76, 76, 77)
+}
+.footer-paragraph {
+  font-size: 20px;
+}
+.footer-heading {
+  font-size: 25px;
+}
+.footer-heading2 {
+  font-size: 22px;
+}
+.footer-row
+{
+  background-color: #6786a1;
+  padding: 50px 50px 50px 50px;
+}
+.footer-fb
+{
+  color: rgba(25,118,210,255);
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px solid rgba(25,118,210,255);
+}
+.footer-tw
+{
+  color: rgba(29,155,240,255);
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px solid rgba(29,155,240,255);
+}
+.footer-ln
+{
+  color: rgba(41,119,201,255);
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px solid rgba(41,119,201,255);
+}
+@media screen and (max-width: 600px) {
+  .form-text
+{
+  /* font-size: 20px;
+  color: white; */
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.ourpartners-row
+{
+  padding-left:25%;
+  padding-right: auto;
+}
+.navlogo
+{
+  width: 240px;
+}
+.navbar-content
+{
+  margin-left: 0%;
+}  
+}
